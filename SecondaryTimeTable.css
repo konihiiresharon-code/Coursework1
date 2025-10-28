@@ -1,0 +1,27 @@
+body {
+  font-family: 'Times New Roman', Times, serif, sans-serif;
+  background-color: white;
+  color: black;
+  margin: 40px;
+}
+
+/* Table layout */
+table {
+  width: 50%;
+  border-collapse: collapse;
+  background-color: white;
+  margin: 0 auto;
+}
+
+/* Borders and spacing */
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+/* Header cells */
+th {
+  font-weight: bold;
+}
+
